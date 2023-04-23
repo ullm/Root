@@ -2,3 +2,4 @@ rencana kerja :
 1. makan
 2. tidur
 3. nonton
+4. belajar
