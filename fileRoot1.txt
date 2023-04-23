@@ -6,4 +6,6 @@ rencana kerja :
 5. bekerja
 6. olahraga
 7. ngaji
-8. sholat
+8. masak
+9. mencuci
+10. sholat
